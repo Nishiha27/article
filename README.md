@@ -1,4 +1,4 @@
-**Mastering HTML & CSS for Essential Web Development Tasks**
+**Forget Coding - Just Type! Create Stunning, Responsive Websites with AI Prompts**
 <br>
 https://nishiha27.github.io/article/
 
